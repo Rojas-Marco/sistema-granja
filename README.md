@@ -42,6 +42,7 @@ Desarrollado como proyecto final por **Rojas Cobacango Marco**.
    - Importa el archivo `sistema_granja.sql`
 
 2. **Coloca la carpeta del proyecto** en:
+   
    D:\laragon\www\sistema_granja
    
    **Accede al sistema** desde:
