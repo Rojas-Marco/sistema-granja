@@ -8,14 +8,14 @@ Desarrollado como proyecto final por **Rojas Cobacango Marco**.
 - Gestión de animales: gallinas, cuyes, pollos, conejos, cerdos
 - Gestión de clientes y registro de ventas
 - Acceso público sin inicio de sesión
-- Menú principal con navegación directa a secciones
+- Menú principal con navegación directa
 - Diseño moderno con fondos temáticos y Bootstrap 5
 - Base de datos MySQL para almacenamiento estructurado
 
-## 🎨 Diseño y Funcionalidad
+## 🎨 Diseño
 
 - Página principal con fondo de granja y botón "Acceder al Sistema"
-- Cada sección tiene un fondo relacionado con su contenido:
+- Cada sección tiene un fondo relacionado:
   - Animales → fondo de animales
   - Clientes → fondo de interacción humana
   - Ventas → fondo de transacciones
@@ -24,15 +24,15 @@ Desarrollado como proyecto final por **Rojas Cobacango Marco**.
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Frontend**: HTML5, CSS3, Bootstrap 5, JavaScript
+- **Frontend**: HTML, CSS, Bootstrap 5, JavaScript
 - **Backend**: PHP (sin framework)
 - **Base de datos**: MySQL (phpMyAdmin)
 - **Servidor local**: Laragon (Apache, MySQL, PHP)
 
 ## 📥 Requisitos
 
-- Laragon (o cualquier servidor local con PHP y MySQL)
-- phpMyAdmin para gestionar la base de datos
+- Laragon (o XAMPP/WAMP)
+- phpMyAdmin
 
 ## 🚀 Instalación
 
