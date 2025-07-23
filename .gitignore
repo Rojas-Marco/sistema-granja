@@ -1,0 +1,14 @@
+# Sistema de Gestión de una Granja
+
+Este sistema permite gestionar animales menores, clientes y ventas en una granja.
+
+## Requisitos
+
+- Laragon (Apache, MySQL, PHP)
+- phpMyAdmin
+
+## Instalación
+
+1. Importa el archivo `sistema_granja.sql` en phpMyAdmin
+2. Coloca la carpeta en `C:\laragon\www\sistema_granja`
+3. Accede a `http://localhost/sistema_granja/login/login.php`
