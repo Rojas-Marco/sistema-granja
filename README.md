@@ -42,3 +42,11 @@ Desarrollado como proyecto final por **Rojas Cobacango Marco**.
    - Importa el archivo `sistema_granja.sql`
 
 2. **Coloca la carpeta del proyecto** en:
+
+## 🔗 Enlaces del Proyecto
+
+- **GitHub**: [https://github.com/Rojas-Marco/sistema-granja ](https://github.com/Rojas-Marco/sistema-granja )
+- **Página de presentación**: [https://rojas-marco.github.io/sistema-granja/ ](https://rojas-marco.github.io/sistema-granja/ )
+
+---
+Proyecto desarrollado para el curso de Programación Web.
